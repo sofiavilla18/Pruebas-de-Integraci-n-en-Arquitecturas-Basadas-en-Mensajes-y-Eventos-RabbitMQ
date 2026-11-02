@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZPHeyS5hkY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\RabbitMQ-Integration-Testing\\Orders.Api\\Orders.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\rabbitmq.client\\7.2.2\\rabbitmq.client.7.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
